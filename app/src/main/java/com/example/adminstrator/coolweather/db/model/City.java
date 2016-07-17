@@ -1,4 +1,4 @@
-package model;
+package com.example.adminstrator.coolweather.db.model;
 
 /**
  * Created by Administrator on 2016/7/16.

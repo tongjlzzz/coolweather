@@ -1,4 +1,4 @@
-package db;
+package com.example.adminstrator.coolweather.db.db;
 
 import android.content.ContentValues;
 import android.content.Context;
@@ -8,9 +8,9 @@ import android.database.sqlite.SQLiteDatabase;
 import java.util.ArrayList;
 import java.util.List;
 
-import model.City;
-import model.County;
-import model.Province;
+import com.example.adminstrator.coolweather.db.model.City;
+import com.example.adminstrator.coolweather.db.model.County;
+import com.example.adminstrator.coolweather.db.model.Province;
 
 /**
  * Created by Administrator on 2016/7/16.
